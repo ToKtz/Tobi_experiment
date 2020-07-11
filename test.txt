@@ -1,5 +1,6 @@
 das ist ein test.
 1
+<<<<<<< HEAD
 2
 3
 4
@@ -10,3 +11,6 @@ das ist ein test.
 9
 400
 500
+=======
+bla bla
+>>>>>>> 6b5f626aa09ac848606c83a9edde07e1edd5bd47
